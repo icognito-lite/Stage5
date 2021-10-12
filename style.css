@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.display-card
+{
+    margin: 1% 2%;
+}
+
+.blog-footer
+{
+    margin: 2.5rem 0;
+    text-align: center;
+}
+
+#gallery-row
+{
+	margin: 0 auto;
+	
+}
+#section
+{
+	margin: 1%;
+
+}
+.col
+{
+	padding:1%;
+
+}
+
+#coming-soon
+{
+	background-image: url(images/toni-zaat-bKqNW5Dq6p8-unsplash.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
