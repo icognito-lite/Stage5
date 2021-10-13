@@ -93,7 +93,7 @@ row.forEach (e =>{
          html+=`
          <div class="col">
 			  <div class="card">
-				<img src="/images/${e.image}.jpg" class="card-img-top image" alt="car">
+				<img src="images/${e.image}.jpg" class="card-img-top image" alt="car">
 				<div class="card-body">
 				  <h5 class="card-title name">${e.name}</h5>
 				  <h5 class="price">${e.price}</h5>
