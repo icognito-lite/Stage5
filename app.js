@@ -82,7 +82,7 @@ let row=[
       
     image: 'supra',
     name:"Supra 2jz",
-    price:'$45 000',
+    price:'$45 200',
     description: '3.0-litre, in-line six-cylinder engine has all the ingredients to stimulate your senses. Equipped with a single, twin-scroll turbocharger, high-precision direct fuel injection and variable valve control, it delivers 340 DIN hp and 500 Nm of torque for an exhilarating charge to 100 km/h in 4.3 seconds and a top speed of 250 km/h.'
 
   }
